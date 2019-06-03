@@ -1,2 +1,2 @@
 # End-of-day-transaction
-End-of-day-transaction
+Assume a customer opens a current account with a starting balance. The list of subsequent transactions for that account are stored as a list of lists with the following structure: [ [Date(datetime), Description(str), Amount(float)], [Date, Description, Amount], …, ] Write python code to generate end-of-day balances for the account from opening to today. Please copy and paste your code below.
